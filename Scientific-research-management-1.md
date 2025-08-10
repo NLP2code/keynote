@@ -3,7 +3,7 @@ marp: true
 paginate: true
 ---
 
-# how to improve scientific and engineering research management capability in company
+# How to improve Scientific and Engineering Research management capability in company
 
 
 Improving scientific and engineering research management capability within a company is a complex but crucial endeavor for driving innovation and maintaining a competitive edge. It requires a holistic approach that addresses **strategy, process, people, and culture**. 
@@ -12,7 +12,7 @@ Improving scientific and engineering research management capability within a com
 
 Here's a breakdown of key strategies and best practices:
 
-# 1. Strategic Alignment and Portfolio Management
+# 1. **Goal and Value** - Strategic Alignment and Portfolio Management
 **Align R&D with Business Goals:** Ensure that all research and development projects are clearly linked to the company's overall business strategy. This means defining a clear vision for the R&D department and ensuring that its **objectives are specific, measurable, achievable, relevant, and time-bound (SMART)**.
 
 ---
@@ -29,7 +29,7 @@ Here's a breakdown of key strategies and best practices:
 
 ---
 
-# 2. Process and Project Management
+# 2. **Scope, Asset and Uncertainty** - Process and Project Management
 - Establish Clear **Project Objectives and Scope:** Define the **purpose, outcomes, and boundaries of each project** from the start. This prevents "scope creep/shift" and ensures everyone is working towards a common goal.
 
 - Adopt **Agile Methodologies:** While not suitable for all R&D, agile methodologies like **Scrum or Kanban** can be highly effective in fostering transparency, accountability, and adaptability in fast-paced research environments.
@@ -42,7 +42,7 @@ Here's a breakdown of key strategies and best practices:
 - **Knowledge Management:** Implement systems for documenting all project knowledge, research data, and findings. This is essential for building on previous work, avoiding redundancies, and ensuring the company's intellectual property is protected.
 
 ---
-# 3. People and Culture
+# 3. **People and Culture** - Innovative and Learning
 
 Build the Right Team: Create a **dedicated R&D team** with a diverse **mix of expertise and skills**. Recruit individuals who not only have the necessary technical qualifications but also fit well with the **team's culture of innovation and collaboration**.
 
@@ -59,7 +59,6 @@ Build the Right Team: Create a **dedicated R&D team** with a diverse **mix of ex
 ---
 # 4. Collaboration and Communication
 - Improve Communication Channels: Establish reliable and transparent communication channels, such as **weekly updates and regular meetings with stakeholders**. Ensure that all team members are **kept informed of project progress and any changes in direction**.
-
 
 - **Leverage External Partnerships**: Don't limit your R&D to internal resources. **Strategic partnerships with other organizations, research centers, or universities can provide access to supplementary expertise and a fresh perspective.**
 
